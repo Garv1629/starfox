@@ -1,0 +1,38 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Production build output
+dist/
+dist-ssr/
+*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Editor & System
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Scratch & test scripts
+scratch_*
+check_*
+audit_*
+start_dev.js
+capture.js
+build_result.txt
+test*.js
+test*.mjs
+site_data.json
+run_git_ops.*
+commit_msg.txt
+*.bat
+
+
